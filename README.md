@@ -21,15 +21,15 @@
 
 ### Pantalla inicial  
 Aquí los usuarios pueden ingresar los nombres:  
-![Pantalla inicial](./assets/inicial.png/)  
+![Pantalla inicial](assets/inicial.png.png) 
 
 ### Lista de amigos ingresados  
 La lista se actualiza en tiempo real:  
-![Lista actualizada](https://via.placeholder.com/800x400?text=Lista+de+nombres)  
+![Lista actualizada](assets/lista.png.png)  
 
 ### Resultado del sorteo  
 Un nombre aleatorio será seleccionado y mostrado:  
-![Resultado del sorteo](https://via.placeholder.com/800x400?text=Resultado+del+sorteo)  
+![Resultado del sorteo](assets/sorteado.png.png)  
 
 ---
 
